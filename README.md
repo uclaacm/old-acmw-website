@@ -1,7 +1,13 @@
 # UCLA ACM-W Website
 
 <hr/>
+To run jekyll server on local machine: 
+<code>
+jekyll serve
+</code>
+When the localhost server address shows up, go to that link on your browser. And voilà!
 
+In order to see your code changes, you need to save your local files and then rerun the above command to see your changes.
 
 ## Features
 
