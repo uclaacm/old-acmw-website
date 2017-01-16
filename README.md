@@ -1,13 +1,21 @@
 # UCLA ACM-W Website
 
 <hr/>
-To run jekyll server on local machine: 
+<h6> To run: </h6> 
 <code>
 jekyll serve
 </code>
+</br>
 When the localhost server address shows up, go to that link on your browser. And voilà!
-
+</br>
 In order to see your code changes, you need to save your local files and then rerun the above command to see your changes.
+
+</br>
+<h6> Adding a blog post </h6>
+To add a post on the main page, create a new text file under _posts, following the format of the existing post.
+</br>
+
+
 
 ## Features
 
